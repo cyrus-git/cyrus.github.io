@@ -1,0 +1,4 @@
+baseURL = 'http://cyrus.tokyo/'
+languageCode = 'ja'
+title = 'CYRUS'
+theme = 'ananke'
