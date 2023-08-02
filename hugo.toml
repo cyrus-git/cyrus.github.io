@@ -36,3 +36,4 @@ url  = 'https://twitter.com/cyrus_twi'
 
 [permalinks]
   works = "/work/:slug/"
+
