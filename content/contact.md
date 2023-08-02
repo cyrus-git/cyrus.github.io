@@ -19,7 +19,7 @@ I'm also active on various social media platforms where I share my work in photo
 
 For your convenience, you can also fill out the form below, and I'll respond to you as soon as possible.
 
-{{< form-contact action="https://formspree.io/cyrus@cyrus.tokyo">}}
+{{< form-contact action="https://formspree.io/f/xwkdvljz">}}
 
 Whether it's a medical question, a creative partnership, or a stimulating conversation about the ever-changing landscape of digital content, I look forward to the opportunity to connect with you.
 
