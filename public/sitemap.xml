@@ -2,10 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://cyrus.tokyo/post/renewing-hp/</loc>
+    <lastmod>2023-08-01T20:44:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://cyrus.tokyo/</loc>
+    <lastmod>2023-08-01T20:44:14+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://cyrus.tokyo/tags/news/</loc>
+    <lastmod>2023-08-01T20:44:14+09:00</lastmod>
+  </url><url>
+    <loc>https://cyrus.tokyo/tags/</loc>
+    <lastmod>2023-08-01T20:44:14+09:00</lastmod>
+  </url><url>
+    <loc>https://cyrus.tokyo/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://cyrus.tokyo/about/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/work/ai-generated-images/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/categories/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/contact/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/unveil/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/work/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/work/photography/</loc>
+  </url><url>
+    <loc>https://cyrus.tokyo/works/</loc>
   </url>
 </urlset>

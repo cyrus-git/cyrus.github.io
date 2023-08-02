@@ -2,9 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CYRUS</title>
-    <link>http://localhost:1313/</link>
+    <link>https://cyrus.tokyo/</link>
     <description>Recent content on CYRUS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 20:44:14 +0900</lastBuildDate><atom:link href="https://cyrus.tokyo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Fresh Look: Renewing My Homepage</title>
+      <link>https://cyrus.tokyo/post/renewing-hp/</link>
+      <pubDate>Tue, 01 Aug 2023 20:44:14 +0900</pubDate>
+      
+      <guid>https://cyrus.tokyo/post/renewing-hp/</guid>
+      <description>サイト管理のため、HP を移転しました。
+お会いした方にお渡ししている名刺の QR コードからは、password 不要でアクセスできる形に変更しています。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cyrus.tokyo/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/about/</guid>
+      <description>Cyrus I am a resident physician and am on the path to becoming an OBGYN doctor.
+I received my first camera as a high school student and, after studying photography at Lovegraph Academy, I began my career as a photographer at the age of 21. Traveling all over Japan, I specialize in portrait photography.
+My ultimate goal is to realize the concept of &amp;ldquo;Digital Nature&amp;rdquo; within the field of medicine.</description>
+    </item>
+    
+    <item>
+      <title>AI Generated Images</title>
+      <link>https://cyrus.tokyo/work/ai-generated-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/work/ai-generated-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://cyrus.tokyo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/contact/</guid>
+      <description>As a medical professional with a profound passion for photography, videography, and digital content creation, I enjoy exploring the convergence of healthcare and creativity. If you have any questions about my medical expertise, want to collaborate on a photo or video project, or are curious about my work in the digital content field, I&amp;rsquo;d be thrilled to connect with you.
+By Email You can reach me directly at cyrus@cyrus.tokyo, or use the contact form below for inquiries, collaboration proposals, or simply to say hello.</description>
+    </item>
+    
+    <item>
+      <title>Fumiya Kuribayashi｜栗林史也</title>
+      <link>https://cyrus.tokyo/unveil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/unveil/</guid>
+      <description>1996 年 8 月 28 日生まれ。
+AS A DOCTOR 医師 / 保険医
+杏林大学医学部付属病院 初期研修医
+日本メディカル AI 学会公認資格
+所属学会 日本産科婦人科学会 関東連合産科婦人科学会 東京産科婦人科学会 日本メディカル AI 学会 AS A PHOTOGRAPHER 所属 株式会社ラブグラフ
+Lovegrapher Lovegraph 1 day Academy 講師 Lovegraph 1 day Academy 構図編 教科書編集者 Lovegraph Academy 講義動画 講師 Lovegraph Academy 講義動画 作成担当 ex Lovegraph Academy 情報リテラシー講習 講師 ex Lovegraph Academy メンター etc. ex 株式会社 BeatFit 医学生エンジニアインターン
+（フロントエンド業務 with Next.js, React, Typescript）
+AWARDS 令和 3 年度 東京都医師会「医学生懸賞論文 Student Doctor プラタナス大賞」大賞</description>
+    </item>
+    
+    <item>
+      <title>My Works</title>
+      <link>https://cyrus.tokyo/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/work/</guid>
+      <description> Photography AI Generated Images Programming </description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://cyrus.tokyo/work/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyrus.tokyo/work/photography/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
