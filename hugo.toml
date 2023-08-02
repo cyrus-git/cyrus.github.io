@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://cyrus.tokyo'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 custom_css = ["css/custom-font.css"]
