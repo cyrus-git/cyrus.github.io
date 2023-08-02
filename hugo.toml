@@ -1,4 +1,35 @@
-baseURL = 'http://cyrus.tokyo/'
-languageCode = 'ja'
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
+custom_css = ["css/custom-font.css"]
 title = 'CYRUS'
 theme = 'ananke'
+
+[params]
+ favicon = '/images/whale.png'
+ mainSections = ['post']
+
+[[params.ananke_socials]]
+name = 'twitter'
+url  = 'https://twitter.com/cyrus_twi'
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Article"
+    url = "/post/"
+    weight = 2
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  works = "/work/:slug/"
+
