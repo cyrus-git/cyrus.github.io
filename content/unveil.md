@@ -46,6 +46,7 @@ ex [株式会社 BeatFit 医学生エンジニアインターン](https://note.c
 ![lg_wonderphotohop](../images/lg_wonderphotoshop.JPG)
 
 [「私が写真を撮る理由、」展](https://prtimes.jp/main/html/rd/p/000000090.000017680.html)
+
 タイトルロゴ採択（手書き文字）
 
 ## AWARDS
