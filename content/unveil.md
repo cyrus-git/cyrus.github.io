@@ -10,7 +10,7 @@ omit_header_text: true
 
 ## AS A DOCTOR
 
-医師 / 保険医
+医師
 
 杏林大学医学部付属病院 初期研修医
 
@@ -42,6 +42,11 @@ omit_header_text: true
 ex [株式会社 BeatFit 医学生エンジニアインターン](https://note.com/cyrus_note/n/n5acb9c1f3873)
 
 （フロントエンド業務 with Next.js, React, Typescript）
+
+![lg_wonderphotohop](../images/lg_wonderphotoshop.JPG)
+
+[「私が写真を撮る理由、」展](https://prtimes.jp/main/html/rd/p/000000090.000017680.html)
+タイトルロゴ採択（手書き文字）
 
 ## AWARDS
 
