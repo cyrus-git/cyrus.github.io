@@ -10,10 +10,9 @@ omit_header_text: true
 
 ## AS A DOCTOR
 
-医師
-
 杏林大学医学部付属病院 初期研修医
 
+J-MELS ベーシックコース
 日本メディカル AI 学会公認資格
 
 #### 所属学会

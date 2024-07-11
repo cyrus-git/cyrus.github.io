@@ -21,6 +21,8 @@ Born in 1996, the first computer OS I interacted with was Windows Millennium Edi
 ### Qualifications
 
 - Medical Degree
+- J-MELS Basic Course
+- 日本メディカル AI 学会公認資格
 - Portrait photography
 - Adobe Lightroom Classic
 - Adobe Photoshop
@@ -30,4 +32,3 @@ Born in 1996, the first computer OS I interacted with was Windows Millennium Edi
 - Stable Diffusion
 - JDLA Deep Learning for GENERAL 2020 #2
 - 基本情報技術者試験
-- 日本メディカル AI 学会公認資格
