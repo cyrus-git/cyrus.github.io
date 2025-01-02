@@ -10,8 +10,9 @@ theme = 'ananke'
  mainSections = ['post']
 
 [[params.ananke_socials]]
-name = 'twitter'
-url  = 'https://twitter.com/cyrus_twi'
+name = 'X'
+url  = 'https://x.com/cyrus_twi'
+icon = 'fa-brands fa-x-twitter'
 
 [[menu.main]]
     name = "Home"
