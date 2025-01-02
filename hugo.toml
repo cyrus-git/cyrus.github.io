@@ -12,7 +12,7 @@ theme = 'ananke'
 [[params.ananke_socials]]
 name = 'X'
 url  = 'https://x.com/cyrus_twi'
-icon = 'fa-x-twitter'
+icon = 'fa-twitter'
 
 [[menu.main]]
     name = "Home"
