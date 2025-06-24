@@ -10,7 +10,7 @@ theme = 'ananke'
  mainSections = ['post']
 
 [[params.ananke_socials]]
-name = 'X'
+name = 'Twitter'
 url  = 'https://x.com/cyrus_twi'
 icon = 'fa-twitter'
 

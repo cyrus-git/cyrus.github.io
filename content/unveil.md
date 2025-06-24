@@ -10,28 +10,26 @@ omit_header_text: true
 
 ## AS A DOCTOR
 
-杏林大学医学部付属病院 初期研修医
+杏林大学医学部付属病院 産婦人科 専攻医
+
+杏林大学医学部付属病院 初期研修 修了
 
 #### 所属学会
 
 - 日本産科婦人科学会
 - 日本メディカル AI 学会
 
-## AS A PHOTOGRAPHER
+## AS NON MEDICAL CAREER
 
-#### 所属
-
-[株式会社ラブグラフ](https://lovegraph.me/photographers/fumiya)
+ex [株式会社ラブグラフ](https://lovegraph.me/)
 
 - Lovegrapher (Photographer)
 - Lovegraph 1 day Academy 講師
 - Lovegraph 1 day Academy 構図編 教科書編集者
 - Lovegraph Academy 講義動画 講師
 - Lovegraph Academy 講義動画 作成担当
-- ex Lovegraph Academy 情報リテラシー講習 講師
-- ex Lovegraph Academy メンター
-
-## etc.
+- Lovegraph Academy 情報リテラシー講習 講師
+- Lovegraph Academy メンター
 
 ex [株式会社 BeatFit 医学生エンジニアインターン](https://note.com/cyrus_note/n/n5acb9c1f3873)
 
@@ -68,7 +66,6 @@ ex [株式会社 BeatFit 医学生エンジニアインターン](https://note.c
 ## CERTIFICATION
 
 - J-MELS ベーシックコース（Dec. 2023）
-
 - 実用英語機能検定 2 級
 - TOEIC Listening & Reading Test Score 825（Mar. 2017）
 - [JDLA Deep Learning for GENERAL 2020 #2](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/OHNJUzMzOXIrc0NlbmpXTFI0d0JCdz09)（Jul. 2020）
